@@ -1,13 +1,13 @@
 # Titanic Survivability Rate
 
-## PROBLEM STATEMENT:
+### PROBLEM STATEMENT:
 
 Access an open source dataset "Titanic".Apply pre-processing techniques on the raw dataset.
 Build training and testing dataset to predict the probability of a survival of a person based on gender, age and passenger-class.
 
 Dataset source:[https://www.kaggle.com/datasets/yasserh/titanic-dataset]
 
-## OUTCOMES:
+###  OUTCOMES:
 
 Visual representation of processed data after cleaning.
 
